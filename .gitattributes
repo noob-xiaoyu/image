@@ -1,0 +1,12 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a1.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a2.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a3.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a4.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a5.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a6.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a7.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a8.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a9.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a10.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/13724/Desktop/aaa/video/a11.mp4 filter=lfs diff=lfs merge=lfs -text
